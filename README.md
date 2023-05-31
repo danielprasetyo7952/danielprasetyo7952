@@ -1,8 +1,12 @@
-# About Me 👋
-My name is Daniel Budi Prasetyo, I am undergraduate from Sanata Dharma University
-
-# 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielprasetyo7952" alt="GitHub Stats">
+<div align="center">
+  <h1>Hello, こんにちは 👋</h1>
+  <p>
+    My name is Daniel Budi Prasetyo, I am Undergraduate from Sanata Dharma University
+  </p>
+  
+  <h1>📊 GitHub Stats</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielprasetyo7952" alt="GitHub Stats">
+</div>
 
 <!--
 **danielprasetyo7952/danielprasetyo7952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
