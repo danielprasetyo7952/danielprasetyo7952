@@ -5,7 +5,19 @@
   </p>
   
   <h1>📊 GitHub Stats</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielprasetyo7952" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=danielprasetyo7952&theme=tokyonight-duo&hide_border=true&border_radius=5" alt="GitHub Stats">
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=danielprasetyo7952&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=danielprasetyo7952&show_icons=true" />
+  </picture>
+  
+  <h1>📖 Preferable Language and Skill</h1>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielprasetyo7952&layout=compact" /> -->
+  <img src="https://skillicons.dev/icons?i=java,python,tensorflow,laravel" />
 </div>
 
 <!--
