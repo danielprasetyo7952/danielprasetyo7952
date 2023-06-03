@@ -19,12 +19,5 @@
 <!--  Github Stats  -->
   <h1>📊 GitHub Stats</h1>
   <img src="https://streak-stats.demolab.com?user=danielprasetyo7952&theme=tokyonight-duo&hide_border=true" alt="GitHub Stats" />
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=danielprasetyo7952&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=danielprasetyo7952&show_icons=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=danielprasetyo7952&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
