@@ -3,7 +3,7 @@
 <!--  About Me  -->
   <h1>👋 Hello, こんにちは</h1>
   <p>
-    My name is Daniel Budi Prasetyo, I am Undergraduate from Sanata Dharma University
+    My name is Daniel Budi Prasetyo, an Undergraduate from Sanata Dharma University and Machine Learning Enthusiast
   </p>
   
   <br><br>
