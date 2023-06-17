@@ -9,12 +9,12 @@
   <br><br>
   
 <!--  Skill  -->
-  <h1>📖 Skills</h1>
+<!--   <h1>📖 Skills</h1>
   <p>
     <img src="https://skillicons.dev/icons?i=tensorflow,laravel,mysql" />
   </p>
   
-  <br><br>
+  <br><br> -->
   
 <!--  Github Stats  -->
   <h1>📊 Stats</h1>
