@@ -3,7 +3,7 @@
 <!--  About Me  -->
   <h1>👋 Hello, こんにちは</h1>
   <p>
-    My name is Daniel Budi Prasetyo, an Undergraduate from Sanata Dharma University and Machine Learning Enthusiast
+    My name is Daniel Budi Prasetyo, an Fresh Graduate from Sanata Dharma University and Machine Learning Enthusiast. Other than machine learning I also have some skill and experience in Web Development using Laravel and .Net Framework.
   </p>
   
   <br><br>
